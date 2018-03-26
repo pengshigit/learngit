@@ -1,0 +1,9 @@
+在Windows上安装Git
+
+在Windows上使用Git，可以从Git官网直接下载安装程序，（网速慢的同学请移步国内镜像），然后按默认选项安装即可。
+
+安装完成后，在开始菜单里找到“Git”->“Git Bash”，蹦出一个类似命令行窗口的东西，就说明Git安装成功！
+
+$ git config --global user.name "pengshi"
+$ git config --global user.email "2683511300@qq.com"
+
